@@ -17,7 +17,7 @@ The by default wordlist for cracking passowrd is rockyou.txt from linux, don't f
 <br>
 <img src="https://user-images.githubusercontent.com/46316908/103164836-3cc66180-4836-11eb-9d50-2e312c93acec.png" width="100%"></img>
 
-**2.Wifi Jammer:**
+**2.Wifi BTICMDM:**
 It creates denial of service (DoS) condition against any wifi router by continously sending the deauthentication packets resulting in disrupted connection of all connected users to it.
 <br>
 <img src="https://user-images.githubusercontent.com/46316908/103164841-5798d600-4836-11eb-918f-f67847d2837f.png" width="100%"></img>
