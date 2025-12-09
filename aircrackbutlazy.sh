@@ -138,7 +138,7 @@ exit 0
 else
 echo -e "[${Red}!${White}] Unknown error is occured..."
 sleep 0.5
-echo -e "[${Yellow}GitHub${White}] You can discuss at https://github.com/3xploitGuy/lazyaircrack/discussions"
+
 echo -e "[${Yellow}GitHub${White}] Do paste content of password and error log files..."
 exit 1
 fi
