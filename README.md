@@ -52,16 +52,8 @@ It creates denial of service (DoS) condition against any wifi router by continou
 
 
 ## Contact
-[Gmail](mailto:3xploitguy@gmail.com)
+[Gmail](mailto:alvaroprayogo38@gmail.com@gmail.com)
 
 ## Disclaimer
 
 LazyAircrack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.
-
-Feel free to discuss any issue or new feature at GitHub's new [Discussions](https://github.com/3xploitGuy/lazyaircrack/discussions).
-
-Pull requests are always welcomed.
-
-## License
-
-LazyAircrack is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
